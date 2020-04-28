@@ -18,5 +18,5 @@
 </p>
 <p align="center">
     <img align="left" alt="tindev-desktop" src=".github/desktopIMG.png" width="50%" />
-    <img align="right" alt="tindev-mobile" src=".github/mobileIMG.png" width="50%" />
+    <img align="right" alt="tindev-mobile" src=".github/mobileIMG.jpg" width="50%" />
 </p>
