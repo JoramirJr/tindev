@@ -17,6 +17,6 @@
     - MongoDB
 </p>
 <p align="center">
-    <img alt="tindev-desktop" src=".github/desktopIMG.png" width="50%" />
-    <img alt="tindev-mobile" src=".github/mobileIMG.png" width="50%" />
+    <img align="left" alt="tindev-desktop" src=".github/desktopIMG.png" width="50%" />
+    <img align="right" alt="tindev-mobile" src=".github/mobileIMG.png" width="50%" />
 </p>
